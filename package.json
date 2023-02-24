@@ -80,7 +80,7 @@
     "jest-css-modules-transform": "^4.4.2",
     "jest-environment-jsdom": "^29.3.1",
     "jest-junit": "^15.0.0",
-    "json-server": "^0.15.1",
+    "json-server": "^0.17.2",
     "lint-staged": "^11.1.2",
     "mockdate": "^3.0.5",
     "prettier": "^2.2.1",
